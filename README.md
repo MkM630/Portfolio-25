@@ -49,15 +49,15 @@ Feel free to fork this repository and submit pull requests. Suggestions and impr
 ## Screenshots
 
 <h3>Home page</h3>
-![alt text](image.png)
+C:\Users\KIIT\Desktop\Portfolio-25\image.png
 <h3>About</h3>
-![alt text](image-1.png)
+C:\Users\KIIT\Desktop\Portfolio-25\image-1.png
 <h3>Skill</h3>
-![alt text](image-2.png)
+C:\Users\KIIT\Desktop\Portfolio-25\image-2.png
 <h3>Project</h3>
-![alt text](image-3.png)
+C:\Users\KIIT\Desktop\Portfolio-25\image-3.png
 <h3>Footer</h3>
-![alt text](image-4.png)
+C:\Users\KIIT\Desktop\Portfolio-25\image-4.png
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
