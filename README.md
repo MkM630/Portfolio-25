@@ -16,9 +16,10 @@ This repository hosts my personal portfolio project, designed to showcase my ski
 - **Hosting:** GitHub Pages / Vercel / Netlify
 
 <h2>May be the sight facing some error like</h2>
-![image](https://github.com/user-attachments/assets/757cf9bb-9c17-49c7-9b6e-4f7350bf1fee)
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/93f1ae49-b886-483f-b4cc-92568644b0ad" />
 <p>Click the details button</p>
-
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/5c7f77df-26cb-49ba-b44c-81846654bb5d" />
+<p>After this click this unsafe site and the site will open</p>
 ## Installation
 
 1. Clone the repository:
