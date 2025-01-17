@@ -43,12 +43,22 @@ This repository hosts my personal portfolio project, designed to showcase my ski
    ```
 2. Deploy to GitHub Pages / Vercel / Netlify by following their specific guidelines.
 
+## Screenshot
+<h3>Home page</h3>
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/a434a53a-926a-4dcc-af0e-f23103b6a9b5" />
+<h3>About</h3>
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/ce41cbda-2c04-4a71-9a4b-be5c6b8871b4" />
+<h3>Skills</h3>
+<img width="865" alt="image" src="https://github.com/user-attachments/assets/fc31d522-8395-4bbf-a9f7-054977bb86c3" />
+<h3>Projects</h3>
+<img width="877" alt="image" src="https://github.com/user-attachments/assets/ed6fa9a1-9d4b-4a73-837f-3091a4a4f210" />
+<h3>Contact</h3>
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/d15404f9-afac-447c-86e0-3e78ae34ae8a" />
+
 ## Contributions
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are always welcome.
 
-<img width="872" alt="image" src="https://github.com/user-attachments/assets/6bdc7481-f6bc-4e84-a76e-73a4b7ffa4fe" />
-
-
+<
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
