@@ -15,6 +15,10 @@ This repository hosts my personal portfolio project, designed to showcase my ski
 - **Styling:** Tailwind CSS / Sass
 - **Hosting:** GitHub Pages / Vercel / Netlify
 
+<h2>May be the sight facing some error like</h2>
+![image](https://github.com/user-attachments/assets/757cf9bb-9c17-49c7-9b6e-4f7350bf1fee)
+<p>Click the details button</p>
+
 ## Installation
 
 1. Clone the repository:
