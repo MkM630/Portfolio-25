@@ -46,6 +46,7 @@ This repository hosts my personal portfolio project, designed to showcase my ski
 ## Contributions
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are always welcome.
 
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/6bdc7481-f6bc-4e84-a76e-73a4b7ffa4fe" />
 
 
 ## License
